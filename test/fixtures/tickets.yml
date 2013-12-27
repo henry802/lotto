@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 1.5
+  gid: 1
+  name: MyString
+  sold: 1.5
+  outstanding: 1.5
+  numtix: 1.5
+  ratio: 1.5
+
+two:
+  price: 1.5
+  gid: 1
+  name: MyString
+  sold: 1.5
+  outstanding: 1.5
+  numtix: 1.5
+  ratio: 1.5
